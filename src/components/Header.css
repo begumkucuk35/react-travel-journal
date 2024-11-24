@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgba(245, 90, 90, 1);
+    padding: 16px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav img{
+    margin-right: 7px;
+}
+nav p{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
